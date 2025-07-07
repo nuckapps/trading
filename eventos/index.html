@@ -632,20 +632,6 @@
               <input type="text" id="anterior" placeholder="0">
             </div>
           </div>
-          <div class="form-group row">
-            <label for="grafico" class="col-sm-3 col-form-label">Gráfico:</label>
-            <div class="col-sm-9">
-              <input id="uploadFile" class="f-input" placeholder="0"/>
-              <div class="fileUpload btn--browse">
-                <span>Buscar</span>
-                <input type="file" id="grafico" class="upload" required>
-              </div>
-              <br>
-              <div class="invalid-feedback" style="margin-top: -15px; position: relative;">
-                Gráfico es necesario.
-              </div>
-            </div>
-          </div>
           <div class="form-group">
             <input type="hidden" id="_id_evento">
           </div>     
@@ -1150,15 +1136,6 @@
           $('#puntos').removeClass('is-invalid'); // Quitar clase de error Bootstrap
         }
 
-        // Validar campo grafico (requerido)
-        let grafico = $('#grafico')[0].files[0];
-        if (!grafico) {
-          $('#uploadFile').addClass('is-invalid'); // Agregar clase para error Bootstrap
-          valido = false;
-        } else {
-          $('#uploadFile').removeClass('is-invalid'); // Quitar clase de error Bootstrap
-        }
-
         // Enviar formulario si es válido
         if (valido) {
           let actual = $('#actual').val();
@@ -1173,7 +1150,6 @@
           formData.append('puntos', puntos);
           formData.append('actual', actual);
           formData.append('anterior', anterior);
-          formData.append('grafico', grafico);
           formData.append('funcion', funcion);
 
           $.ajax({
@@ -1298,9 +1274,9 @@
       const fechaComparar = new Date(fecha_hora);
     });
 
-    document.getElementById("grafico").onchange = function () {
-      document.getElementById("uploadFile").value = this.value.replace("C:\\fakepath\\", "");
-    };
+    // document.getElementById("grafico").onchange = function () {
+    //   document.getElementById("uploadFile").value = this.value.replace("C:\\fakepath\\", "");
+    // };
 
     $('#nuevo_evento').on('shown.bs.modal', function () {
       console.log('El modal se ha mostrado completamente.');

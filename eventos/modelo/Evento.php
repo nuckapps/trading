@@ -64,24 +64,21 @@ class Evento{
                   $evento,
                   $puntos,
                   $actual,
-                  $anterior,
-                  $grafico) {
+                  $anterior) {
     $sql =  "INSERT INTO evento( divisa,".
                                   "fecha_hora,". 
                                   "volatilidad,".   
                                   "evento,".   
                                   "puntos,".
                                   "actual,".   
-                                  "anterior,".   
-                                  "grafico) ". 
+                                  "anterior) ". 
             "VALUES ('$divisa', ".
                     "'$fecha_hora', ".    
                     "'$volatilidad', ".  
                     "'$evento', ".  
                     "'$puntos', ".  
                     "'$actual', ".  
-                    "'$anterior', ".  
-                    "'$grafico') ";
+                    "'$anterior') ";
 
     return $this->acceso->query($sql); 
     // return "DUMB";              

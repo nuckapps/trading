@@ -79,30 +79,15 @@
 		$puntos_form = $_POST['puntos'];
 		$actual = $_POST['actual'];
 		$anterior = $_POST['anterior'];
-		$grafico = $_POST['grafico'];
-
-		// Acceder a la imagen correctamente con $_FILES
-    $grafico = $_FILES['grafico']['name'];
-		$extension = pathinfo($grafico, PATHINFO_EXTENSION);
-    $archivoTemporal = $_FILES['grafico']['tmp_name'];
-    $directorio = "../graficos/"; // Cambiar esta ruta por la correcta
-    $rutaArchivo = $directorio . $divisa."_".$fecha_hora.".".$extension;
-		$rutaArchivo_nuevo = "graficos/" . $divisa."_".$fecha_hora.".".$extension;
     
-    // Mover la imagen al directorio
-    if(move_uploaded_file($archivoTemporal, $rutaArchivo)){
-			$resultado = $evento->nuevo($divisa, 
-																	$fecha_hora, 
-																	$volatilidad, 
-																	$evento_form, 
-																	$puntos_form, 
-																	$actual, 
-																	$anterior, 
-																	$rutaArchivo_nuevo);
+		$resultado = $evento->nuevo($divisa, 
+																$fecha_hora, 
+																$volatilidad, 
+																$evento_form, 
+																$puntos_form, 
+																$actual, 
+																$anterior);
 
-			echo "::Todo Ok::nuevo:: ".$resultado;
-    } else {
-			echo "Error Controller ". error_get_last()['message'];
-    }
+		echo "::Todo Ok::nuevo:: ".$resultado;
  }
 ?>
