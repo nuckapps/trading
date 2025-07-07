@@ -1,0 +1,63 @@
+[19-Sep-2024 23:20:53 America/Bogota] PHP Warning:  Undefined property: stdClass::$success in /home4/subcomco/public_html/kernel/exchange.php on line 55
+[19-Sep-2024 23:20:53 America/Bogota] PHP Warning:  Undefined property: stdClass::$terms in /home4/subcomco/public_html/kernel/exchange.php on line 56
+[19-Sep-2024 23:20:53 America/Bogota] PHP Warning:  Undefined property: stdClass::$privacy in /home4/subcomco/public_html/kernel/exchange.php on line 57
+[19-Sep-2024 23:20:53 America/Bogota] PHP Warning:  Undefined property: stdClass::$timestamp in /home4/subcomco/public_html/kernel/exchange.php on line 58
+[19-Sep-2024 23:20:53 America/Bogota] PHP Warning:  Undefined property: stdClass::$source in /home4/subcomco/public_html/kernel/exchange.php on line 59
+[19-Sep-2024 23:20:53 America/Bogota] PHP Warning:  Undefined property: stdClass::$quotes in /home4/subcomco/public_html/kernel/exchange.php on line 60
+[19-Sep-2024 23:20:53 America/Bogota] PHP Warning:  Attempt to read property "USDCOP" on null in /home4/subcomco/public_html/kernel/exchange.php on line 60
+[19-Sep-2024 23:20:55 America/Bogota] PHP Warning:  Undefined property: stdClass::$success in /home4/subcomco/public_html/kernel/exchange.php on line 55
+[19-Sep-2024 23:20:55 America/Bogota] PHP Warning:  Undefined property: stdClass::$terms in /home4/subcomco/public_html/kernel/exchange.php on line 56
+[19-Sep-2024 23:20:55 America/Bogota] PHP Warning:  Undefined property: stdClass::$privacy in /home4/subcomco/public_html/kernel/exchange.php on line 57
+[19-Sep-2024 23:20:55 America/Bogota] PHP Warning:  Undefined property: stdClass::$timestamp in /home4/subcomco/public_html/kernel/exchange.php on line 58
+[19-Sep-2024 23:20:55 America/Bogota] PHP Warning:  Undefined property: stdClass::$source in /home4/subcomco/public_html/kernel/exchange.php on line 59
+[19-Sep-2024 23:20:55 America/Bogota] PHP Warning:  Undefined property: stdClass::$quotes in /home4/subcomco/public_html/kernel/exchange.php on line 60
+[19-Sep-2024 23:20:55 America/Bogota] PHP Warning:  Attempt to read property "USDCOP" on null in /home4/subcomco/public_html/kernel/exchange.php on line 60
+[19-Sep-2024 23:21:21 America/Bogota] PHP Warning:  Undefined property: stdClass::$success in /home4/subcomco/public_html/kernel/exchange.php on line 55
+[19-Sep-2024 23:21:21 America/Bogota] PHP Warning:  Undefined property: stdClass::$terms in /home4/subcomco/public_html/kernel/exchange.php on line 56
+[19-Sep-2024 23:21:21 America/Bogota] PHP Warning:  Undefined property: stdClass::$privacy in /home4/subcomco/public_html/kernel/exchange.php on line 57
+[19-Sep-2024 23:21:21 America/Bogota] PHP Warning:  Undefined property: stdClass::$timestamp in /home4/subcomco/public_html/kernel/exchange.php on line 58
+[19-Sep-2024 23:21:21 America/Bogota] PHP Warning:  Undefined property: stdClass::$source in /home4/subcomco/public_html/kernel/exchange.php on line 59
+[19-Sep-2024 23:21:21 America/Bogota] PHP Warning:  Undefined property: stdClass::$quotes in /home4/subcomco/public_html/kernel/exchange.php on line 60
+[19-Sep-2024 23:21:21 America/Bogota] PHP Warning:  Attempt to read property "USDCOP" on null in /home4/subcomco/public_html/kernel/exchange.php on line 60
+[20-Sep-2024 10:53:50 America/Bogota] PHP Warning:  Undefined property: stdClass::$success in /home4/subcomco/public_html/kernel/exchange.php on line 55
+[20-Sep-2024 10:53:50 America/Bogota] PHP Warning:  Undefined property: stdClass::$terms in /home4/subcomco/public_html/kernel/exchange.php on line 56
+[20-Sep-2024 10:53:50 America/Bogota] PHP Warning:  Undefined property: stdClass::$privacy in /home4/subcomco/public_html/kernel/exchange.php on line 57
+[20-Sep-2024 10:53:50 America/Bogota] PHP Warning:  Undefined property: stdClass::$timestamp in /home4/subcomco/public_html/kernel/exchange.php on line 58
+[20-Sep-2024 10:53:50 America/Bogota] PHP Warning:  Undefined property: stdClass::$source in /home4/subcomco/public_html/kernel/exchange.php on line 59
+[20-Sep-2024 10:53:50 America/Bogota] PHP Warning:  Undefined property: stdClass::$quotes in /home4/subcomco/public_html/kernel/exchange.php on line 60
+[20-Sep-2024 10:53:50 America/Bogota] PHP Warning:  Attempt to read property "USDCOP" on null in /home4/subcomco/public_html/kernel/exchange.php on line 60
+[20-Sep-2024 10:53:54 America/Bogota] PHP Warning:  Undefined property: stdClass::$success in /home4/subcomco/public_html/kernel/exchange.php on line 55
+[20-Sep-2024 10:53:54 America/Bogota] PHP Warning:  Undefined property: stdClass::$terms in /home4/subcomco/public_html/kernel/exchange.php on line 56
+[20-Sep-2024 10:53:54 America/Bogota] PHP Warning:  Undefined property: stdClass::$privacy in /home4/subcomco/public_html/kernel/exchange.php on line 57
+[20-Sep-2024 10:53:54 America/Bogota] PHP Warning:  Undefined property: stdClass::$timestamp in /home4/subcomco/public_html/kernel/exchange.php on line 58
+[20-Sep-2024 10:53:54 America/Bogota] PHP Warning:  Undefined property: stdClass::$source in /home4/subcomco/public_html/kernel/exchange.php on line 59
+[20-Sep-2024 10:53:54 America/Bogota] PHP Warning:  Undefined property: stdClass::$quotes in /home4/subcomco/public_html/kernel/exchange.php on line 60
+[20-Sep-2024 10:53:54 America/Bogota] PHP Warning:  Attempt to read property "USDCOP" on null in /home4/subcomco/public_html/kernel/exchange.php on line 60
+[20-Sep-2024 10:54:40 America/Bogota] PHP Warning:  Undefined property: stdClass::$success in /home4/subcomco/public_html/kernel/exchange.php on line 55
+[20-Sep-2024 10:54:40 America/Bogota] PHP Warning:  Undefined property: stdClass::$terms in /home4/subcomco/public_html/kernel/exchange.php on line 56
+[20-Sep-2024 10:54:40 America/Bogota] PHP Warning:  Undefined property: stdClass::$privacy in /home4/subcomco/public_html/kernel/exchange.php on line 57
+[20-Sep-2024 10:54:40 America/Bogota] PHP Warning:  Undefined property: stdClass::$timestamp in /home4/subcomco/public_html/kernel/exchange.php on line 58
+[20-Sep-2024 10:54:40 America/Bogota] PHP Warning:  Undefined property: stdClass::$source in /home4/subcomco/public_html/kernel/exchange.php on line 59
+[20-Sep-2024 10:54:40 America/Bogota] PHP Warning:  Undefined property: stdClass::$quotes in /home4/subcomco/public_html/kernel/exchange.php on line 60
+[20-Sep-2024 10:54:40 America/Bogota] PHP Warning:  Attempt to read property "USDCOP" on null in /home4/subcomco/public_html/kernel/exchange.php on line 60
+[24-Sep-2024 11:55:04 America/Bogota] PHP Warning:  Attempt to read property "success" on null in /home4/subcomco/public_html/kernel/exchange.php on line 55
+[24-Sep-2024 11:55:04 America/Bogota] PHP Warning:  Attempt to read property "terms" on null in /home4/subcomco/public_html/kernel/exchange.php on line 56
+[24-Sep-2024 11:55:04 America/Bogota] PHP Warning:  Attempt to read property "privacy" on null in /home4/subcomco/public_html/kernel/exchange.php on line 57
+[24-Sep-2024 11:55:04 America/Bogota] PHP Warning:  Attempt to read property "timestamp" on null in /home4/subcomco/public_html/kernel/exchange.php on line 58
+[24-Sep-2024 11:55:04 America/Bogota] PHP Warning:  Attempt to read property "source" on null in /home4/subcomco/public_html/kernel/exchange.php on line 59
+[24-Sep-2024 11:55:04 America/Bogota] PHP Warning:  Attempt to read property "quotes" on null in /home4/subcomco/public_html/kernel/exchange.php on line 60
+[24-Sep-2024 11:55:04 America/Bogota] PHP Warning:  Attempt to read property "USDCOP" on null in /home4/subcomco/public_html/kernel/exchange.php on line 60
+[24-Sep-2024 11:55:04 America/Bogota] PHP Warning:  Attempt to read property "message" on null in /home4/subcomco/public_html/kernel/exchange.php on line 65
+[24-Sep-2024 11:55:16 America/Bogota] PHP Warning:  Undefined property: stdClass::$success in /home4/subcomco/public_html/kernel/exchange.php on line 55
+[24-Sep-2024 11:55:16 America/Bogota] PHP Warning:  Undefined property: stdClass::$terms in /home4/subcomco/public_html/kernel/exchange.php on line 56
+[24-Sep-2024 11:55:16 America/Bogota] PHP Warning:  Undefined property: stdClass::$privacy in /home4/subcomco/public_html/kernel/exchange.php on line 57
+[24-Sep-2024 11:55:16 America/Bogota] PHP Warning:  Undefined property: stdClass::$timestamp in /home4/subcomco/public_html/kernel/exchange.php on line 58
+[24-Sep-2024 11:55:16 America/Bogota] PHP Warning:  Undefined property: stdClass::$source in /home4/subcomco/public_html/kernel/exchange.php on line 59
+[24-Sep-2024 11:55:16 America/Bogota] PHP Warning:  Undefined property: stdClass::$quotes in /home4/subcomco/public_html/kernel/exchange.php on line 60
+[24-Sep-2024 11:55:16 America/Bogota] PHP Warning:  Attempt to read property "USDCOP" on null in /home4/subcomco/public_html/kernel/exchange.php on line 60
+[24-Sep-2024 11:55:25 America/Bogota] PHP Warning:  Undefined property: stdClass::$terms in /home4/subcomco/public_html/kernel/exchange.php on line 56
+[24-Sep-2024 11:55:25 America/Bogota] PHP Warning:  Undefined property: stdClass::$privacy in /home4/subcomco/public_html/kernel/exchange.php on line 57
+[24-Sep-2024 11:55:25 America/Bogota] PHP Warning:  Undefined property: stdClass::$terms in /home4/subcomco/public_html/kernel/exchange.php on line 56
+[24-Sep-2024 11:55:25 America/Bogota] PHP Warning:  Undefined property: stdClass::$privacy in /home4/subcomco/public_html/kernel/exchange.php on line 57
+[24-Sep-2024 11:56:02 America/Bogota] PHP Warning:  Undefined property: stdClass::$terms in /home4/subcomco/public_html/kernel/exchange.php on line 56
+[24-Sep-2024 11:56:02 America/Bogota] PHP Warning:  Undefined property: stdClass::$privacy in /home4/subcomco/public_html/kernel/exchange.php on line 57
